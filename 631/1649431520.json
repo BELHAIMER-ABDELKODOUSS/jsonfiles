@@ -1,0 +1,1 @@
+{"collaboration": false, "id": 631, "cameraType": "Back Camera", "storyName": "test project", "experience": "VR", "mainStory": {"nodes": [{"name": "Scene1", "startTime": null, "endTime": null, "nodeId": 3491, "nextNodeId": null, "nodeType": "SceneNode", "nodeElements": {"nodes": []}}]}}

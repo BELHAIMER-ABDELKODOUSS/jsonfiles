@@ -1,0 +1,1 @@
+{"collaboration": false, "id": 1127, "cameraType": "Back Camera", "storyName": "test sound", "experience": "AR", "mainStory": {"nodes": [{"name": "Scene1", "startTime": 0.0, "endTime": 40.0, "nodeId": 0, "nextNodeId": -1, "nodeType": "SceneNode", "nodeElements": []}]}}
